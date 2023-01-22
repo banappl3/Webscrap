@@ -1,9 +1,9 @@
-# Data on Automobile by Yongguang Lin
+# Data on Automobile by YG Lin
 
 
 ### 🗂️ Download our complete automobile dataset : [CSV](https://...de) | [DB](https://..db) | [JSON](https://..json)
 
-Unser vollständiger Automible-Datensatz ist eine Sammlung der Fahrzeug-Daten, die von [_mobile.de_](https://www.mobile.de/) und [_AutoScount24_](https://www.autoscout24.de/) zur Verfügung gestellt werden. Wir werden ihn regelmäßig aktualisieren (weitere Informationen zu unserem Aktualisierungsprozess und Zeitplan [hier](https://..de)). Er enthält die folgenden Daten:
+Unser vollständiger Automobile-Datensatz ist eine Sammlung der Fahrzeug-Daten, die von [_mobile.de_](https://www.mobile.de/) und [_AutoScount24_](https://www.autoscout24.de/) zur Verfügung gestellt werden. Wir werden ihn regelmäßig aktualisieren (weitere Informationen zu unserem Aktualisierungsprozess und Zeitplan [hier](https://..de)). Er enthält die folgenden Daten:
 
 | Metrics                     | Quellen                                                    | Updated | Länder |
 |-----------------------------|-----------------------------------------------------------|---------|-----------|
@@ -23,7 +23,7 @@ Die CSV-Dateien verwendet den Seperator ";" und die UTF-8-Kodierung. Die DB-Date
 |:---------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `marke`                    | Der Autohersteller z.B. Audi, BMW oder Mercedes-Benz|
 | `modell`                    | Das Automodell des Herstellers z.B. A3 der Marke Audi|
-| `variante`                    | Die Variante des Automodells |
+| `variante`                    | Die Variante des Automodells z.B. VM Golf VIII 1.5 TSI |
 | `preis`                    | Der veröffentlichte Preiswert des Autos |
 | `ort`                    | Der Verkaufsort |
 | `plz`                    | Die Postleitzahl |
@@ -45,6 +45,15 @@ Die CSV-Dateien verwendet den Seperator ";" und die UTF-8-Kodierung. Die DB-Date
 | `kraftstoffverbrauch`                    | Der Kraftstoffverbrauch , innerorts - außerorts - kombiniert|
 | `...`                    |  |
 
-	
+## Changelog
 
+- Bis zum 22.Januar 2020 verwendeten wir die Daten der Portale mobile.de und autoscount24.de, die per Script extrahiert wurden.
+
+## Lizenz
+
+Alle von _Banappl3_ erstellten Visualisierungen, Daten und Codes sind unter der [Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/). vollständig frei zugänglich. Sie haben die Erlaubnis, diese in jedem Medium zu verwenden, zu verbreiten und zu vervielfältigen, sofern die Quelle und die Autoren genannt werden.
+
+## Autoren
+
+Diese Daten wurden von YG Lin und [banappl3](https://github.com/banappl3) gesammelt, aggregiert und dokumentiert.
 
