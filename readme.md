@@ -48,8 +48,3 @@ Die CSV-Dateien verwendet den Seperator ";" und die UTF-8-Kodierung. Die DB-Date
 ## Changelog
 
 - Bis zum 22.Januar 2020 verwendeten wir die Daten der Portale mobile.de und autoscount24.de, die per Script extrahiert wurden.
-
-## Autoren
-
-Diese Daten wurden von [banappl3](https://github.com/banappl3) gesammelt, aggregiert und dokumentiert.
-
