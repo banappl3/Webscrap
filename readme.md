@@ -49,11 +49,7 @@ Die CSV-Dateien verwendet den Seperator ";" und die UTF-8-Kodierung. Die DB-Date
 
 - Bis zum 22.Januar 2020 verwendeten wir die Daten der Portale mobile.de und autoscount24.de, die per Script extrahiert wurden.
 
-## Lizenz
-
-Alle von _Banappl3_ erstellten Visualisierungen, Daten und Codes sind unter der [Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/). vollständig frei zugänglich. Sie haben die Erlaubnis, diese in jedem Medium zu verwenden, zu verbreiten und zu vervielfältigen, sofern die Quelle und die Autoren genannt werden.
-
 ## Autoren
 
-Diese Daten wurden von YG Lin und [banappl3](https://github.com/banappl3) gesammelt, aggregiert und dokumentiert.
+Diese Daten wurden von [banappl3](https://github.com/banappl3) gesammelt, aggregiert und dokumentiert.
 
