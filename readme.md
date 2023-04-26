@@ -1,4 +1,4 @@
-# Data on Automobile by YG Lin
+# Data on Automobile
 
 
 ### 🗂️ Download our complete automobile dataset : [CSV](https://...de) | [DB](https://..db) | [JSON](https://..json)
